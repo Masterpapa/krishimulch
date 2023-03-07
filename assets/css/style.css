@@ -10925,7 +10925,7 @@ a.text-dark:focus {
   }
 
   abbr[title]::after {
-    content: " ("attr(title) ")";
+    content: " (" attr(title) ")";
   }
 
   pre {
@@ -20037,7 +20037,7 @@ p.top-p {
 }
 
 .w3l-footer-16 .column ul li a {
-  font-size: 16px;
+  font-size: 14px;
   color: #777679;
   line-height: 26px;
 }
@@ -21025,7 +21025,7 @@ ul.location-top {
   right: 10px;
 }
 
-li.new a{
+li.new a {
   display: inline-block;
   color: #fff;
   font-size: 15px;
@@ -21731,7 +21731,17 @@ h5.texti {
     font-size: 15px;
   }
 }
-.hdr-box-shadow{
+
+.hdr-box-shadow {
   box-shadow: 0 3px 5px -1px #0003, 0 6px 10px #00000024, 0 1px 18px #0000001f !important;
 }
+
+.slogan {
+  color: #f5efef;
+  margin-left: 58px;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
 /* //shortcodes page */
