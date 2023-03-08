@@ -18731,10 +18731,10 @@ button.search-btn:hover {
 }
 
 .slide .content {
-  bottom: 70px;
+  bottom: 25px;
   left: -470px;
   max-width: 600px;
-  padding: 2.5rem;
+  padding: 1.5rem;
   line-height: 1.6;
 }
 
